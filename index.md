@@ -56,6 +56,9 @@
   </tr>
 <tr>
   <td class="left">Tailoring</td>
+  <td></td>
+  <td></td>
+  <td></td>
 </tr>
 </table>
  
