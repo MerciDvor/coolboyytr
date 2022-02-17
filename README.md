@@ -1,2 +1,2 @@
 
-https://coolboyytr.github.io/coolboyytr/
+https://mercidvor.github.io/coolboyytr/
