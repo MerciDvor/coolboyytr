@@ -24,7 +24,7 @@
   <td></td>
   <td></td>
   </tr>
-  </tr>
+  <tr>
     <td class="left">Mining</td>
     <td></td>
     <td></td>
