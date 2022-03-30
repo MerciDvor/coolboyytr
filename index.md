@@ -19,6 +19,12 @@
     <td></td>
   </tr>
   <tr>
+  <td class="left">Magic</td>
+  <td></td>
+  <td></td>
+  <td></td>
+  </tr>
+  </tr>
     <td class="left">Mining</td>
     <td></td>
     <td></td>
@@ -54,12 +60,6 @@
     <td></td>
     <td></td>
   </tr>
-<tr>
-  <td class="left">Magic</td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
 </table>
  
 <p>Made by <a href="https://m.youtube.com/channel/UC4mW1obMU7paMiGkJF-4tbg">Cool Boy YT</a></p>
@@ -96,7 +96,7 @@ const INDEX = {
   "xp": 2,
   "page": 3,
 };
-const skills = ["", "mining", "smithing", "woodcutting", "crafting", "fishing", "cooking", "magic"];
+const skills = ["", "mining", "magic", "smithing", "woodcutting", "crafting", "fishing", "cooking"];
 
 function byId(id) {
   return document.getElementById(id);
