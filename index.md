@@ -55,7 +55,7 @@
     <td></td>
   </tr>
 <tr>
-  <td class="left">Mage</td>
+  <td class="left">Magic</td>
   <td></td>
   <td></td>
   <td></td>
@@ -96,7 +96,7 @@ const INDEX = {
   "xp": 2,
   "page": 3,
 };
-const skills = ["", "mining", "smithing", "woodcutting", "crafting", "fishing", "cooking", "mage"];
+const skills = ["", "mining", "smithing", "woodcutting", "crafting", "fishing", "cooking", "magic"];
 
 function byId(id) {
   return document.getElementById(id);
